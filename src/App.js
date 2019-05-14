@@ -10,6 +10,11 @@ function App() {
         <button>New button</button>
         <input/>
       </header>
+      <body>
+        <div>
+          some text
+        </div>
+      </body>
     </div>
   );
 }
