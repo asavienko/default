@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>My title </h1>
         <button>New button</button>
+        <input/>
       </header>
       <body>
         <div>
